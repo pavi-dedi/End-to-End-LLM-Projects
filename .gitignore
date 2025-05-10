@@ -1,0 +1,18 @@
+# Ignore virtual environments and secret files
+venv/
+.env
+**/.env
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
