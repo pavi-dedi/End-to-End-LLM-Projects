@@ -1,0 +1,1 @@
+A simple conversational RAG with PDF uploads. Does not keep conversation history. 
